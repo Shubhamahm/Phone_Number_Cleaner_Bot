@@ -1,0 +1,10 @@
+ID	Message Body
+1	Hi, please call me at 9876543210 when you get a chance. Thanks!
+2	My contact number is +91-99999-88888. Let’s connect tomorrow.
+3	You can reach the office at (022) 1234-5678 or +91 98330 44556.
+4	Alternate number: 080 2654 2211. Primary one is 9765432101.
+5	Here’s my US number: +1 (408) 555-1234. Will be available after 2 PM.
+6	Kindly update the contact info to 8877665544. The old number doesn’t work.
+7	No number here, this line is just for testing skip logic.
+8	The support line is +44 20 7946 0958 or 020 7946 0958 (UK).
+9	My landline is 011-23456789. Mobile: +91 90123 45678.
